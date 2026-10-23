@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+reports/*
+!reports/.gitkeep
+tools/output/
+tools/discover_output.txt
+.env
+.vscode/
+*.log
+.sf/
+.sfdx/
